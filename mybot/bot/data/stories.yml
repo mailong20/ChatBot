@@ -2,6 +2,11 @@ version: "2.0"
 
 stories:
 
+- story: aks_land
+  steps:
+  - intent: aks_landvision
+  - action: utter_aks_landvision
+
 - story: happy path
   steps:
   - intent: greet

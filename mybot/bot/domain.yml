@@ -8,8 +8,12 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - aks_landvision
 
 responses:
+  utter_aks_landvision:
+  - text: Bạn muốn hỏi bất động sản à"
+
   utter_greet:
   - text: "Hey! How are you?"
 
