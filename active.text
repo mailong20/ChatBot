@@ -1,0 +1,9 @@
+cd ..
+.\venv\Scripts\activate
+cd bot
+
+1. chạy action
+rasa run actions
+
+2. chạy lệnh để Chatbot
+rasa shell

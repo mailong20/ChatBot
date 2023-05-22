@@ -1,0 +1,14 @@
+{
+  "config": "99914b932bd37a50b983c5e7c90ae93b",
+  "core-config": "a96789249fc01220397597b7e75e1dd6",
+  "nlu-config": "80090026e3f7e44f0e39146c788520ba",
+  "config-without-epochs": "8dc30ffb00d6f699aee6e04ed78ea216",
+  "domain": "fdb0257c5fcc04037528e0873ca88df1",
+  "nlg": "3ba8587aff7fadce3eae72aed628928a",
+  "project": null,
+  "messages": "2ade3ab4ebdb9c1fadf5451ebb4c2f3f",
+  "nlu_labels": "301c3ade2ff8095a1ad8ee09710abd42",
+  "stories": "f4ee015d702a1bf512c852c2f1b11e6d",
+  "trained_at": 1683429144.0621483,
+  "version": "2.8.2"
+}
